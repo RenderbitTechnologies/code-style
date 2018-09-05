@@ -11,5 +11,6 @@ Style guides for common languages and frameworks. This is meant to be used as a 
 - [CSS](./CSS.md)
 - [Ruby](./Ruby,md)
 - [ES6](./ES6.md)
+- [React/JSX](./React.md)
 
 &copy; 2018 Renderbit Technologies
