@@ -7,5 +7,6 @@ Style guides for common languages and frameworks. This is meant to be used as a 
 ## Guides
 
 - [HTML](./HTML.md)
+- [JavaScript (ES5)](./JavaScript.md)
 
 &copy; 2018 Renderbit Technologies
