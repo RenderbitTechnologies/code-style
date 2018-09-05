@@ -6,7 +6,7 @@
 - [HTML5 doctype](#html5-doctype)
 - [Language attribute](#language-attribute)
 - [Character encoding](#character-encoding)
-- [Internet Explorer compatibility mode](#internet-explorer-compatibility-mode)
+- [Internet Explorer compatibility mode](#ie-compatibility-mode)
 - [CSS and JavaScript includes](#css-and-javascript-includes)
 - [Practicality over purity](#practicality-over-purity)
 - [Attribute order](#attribute-order)
