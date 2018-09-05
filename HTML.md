@@ -1,5 +1,19 @@
 # HTML
 
+## Table of contents
+
+- [Syntax](#syntax)
+- [HTML5 doctype](#html5-doctype)
+- [Language attribute](#language-attribute)
+- [Character encoding](#character-encoding)
+- [Internet Explorer compatibility mode](#internet-explorer-compatibility-mode)
+- [CSS and JavaScript includes](#css-and-javascript-includes)
+- [Practicality over purity](#practicality-over-purity)
+- [Attribute order](#attribute-order)
+- [Boolean attributes](#boolean-attributes)
+- [Reducing markup](#reducing-markup)
+- [JavaScript generated markup](#javascript-generated-markup)
+
 ## Syntax
 
 - Use soft tabs with two spaces—they're the only way to guarantee code renders the same in any environment.
@@ -105,7 +119,7 @@ HTML attributes should come in this particular order for easier reading of code.
 - `data-*`
 - `src`, `for`, `type`, `href`, `value`
 - `title`, `alt`
-- `role`, `aria-*``
+- `role`, `aria-*`
 
 Classes make for great reusable components, so they come first. Ids are more specific and should be used sparingly (e.g., for in-page bookmarks), so they come second.
 
