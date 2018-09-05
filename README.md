@@ -9,7 +9,7 @@ Style guides for common languages and frameworks. This is meant to be used as a 
 - [HTML](./HTML.md)
 - [JavaScript (ES5)](./JavaScript.md)
 - [CSS](./CSS.md)
-- [Ruby](./Ruby,md)
+- [Ruby](./Ruby.md)
 - [ES6](./ES6.md)
 - [React/JSX](./React.md)
 
